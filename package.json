@@ -1,0 +1,6 @@
+{
+  "name": "node-volcora-scanner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
